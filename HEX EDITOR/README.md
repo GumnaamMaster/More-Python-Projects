@@ -14,21 +14,14 @@
 
 To run this application, you need Python and several libraries. Follow these steps to get started:
 
-1. **Clone the Repository:**
-
-    ```bash
-    git clone https://github.com/Gu/hex-mud.git
-    cd hex-mud
-    ```
-
-2. **Create and Activate a Virtual Environment:**
+1. **Create and Activate a Virtual Environment:**
 
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
-3. **Install Required Packages:**
+2. **Install Required Packages:**
 
     Install the necessary Python libraries using pip:
 
@@ -36,7 +29,7 @@ To run this application, you need Python and several libraries. Follow these ste
     pip install tkinter colorama capstone
     ```
 
-4. **Run the Application:**
+3. **Run the Application:**
 
     ```bash
     python hexmud.py
