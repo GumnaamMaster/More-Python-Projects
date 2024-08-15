@@ -13,10 +13,6 @@ Geopy
 Pandas
 An internet connection for geocoding
 Setup
-Clone the Repository:
-
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
 
 Create and Activate a Virtual Environment:
 
