@@ -57,5 +57,3 @@ Open map1.html in a web browser to view the interactive map.
 Contributing
 Feel free to contribute by submitting issues, suggestions, or pull requests. Your feedback and improvements are welcome!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
