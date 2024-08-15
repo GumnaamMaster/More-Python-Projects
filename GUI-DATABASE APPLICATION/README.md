@@ -15,10 +15,6 @@ Python 3.x
 Tkinter (comes with Python standard library)
 SQLite (comes with Python standard library)
 Setup
-Clone the Repository:
-
-git clone https://github.com/yourusername/bookstore-management.git
-cd bookstore-management
 
 Install Dependencies:
 
