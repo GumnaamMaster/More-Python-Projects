@@ -32,7 +32,7 @@ To run this application, you need Python and several libraries. Follow these ste
 3. **Run the Application:**
 
     ```bash
-    python hexmud.py
+    python hxmud.py
     ```
 
     The application will open with a GUI for loading and editing binary files.
