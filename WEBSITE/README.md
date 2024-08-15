@@ -7,10 +7,6 @@ Candlestick Chart: Uses Bokeh to render a candlestick chart showing Google stock
 Data Visualization: Displays historical stock data with color-coded segments indicating price increases or decreases.
 Responsive Layout: The Bokeh plot is rendered using CDN resources, ensuring a responsive and interactive user experience.
 Installation
-Clone the Repository:
-
-git clone https://github.com/yourusername/repositoryname.git
-cd repositoryname
 
 Install Dependencies:
 Ensure you have Python 3.x installed, then install the required packages using pip:
