@@ -26,36 +26,30 @@ This project is a Flask-based web application designed for collecting height dat
 
 ### Installation Steps
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
-
-2. Create a Virtual Environment
+1. Create a Virtual Environment
 
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-3. Install Dependencies
+2. Install Dependencies
 
 pip install -r requirements.txt
 
 Make sure to include Flask, Flask-SQLAlchemy, and other necessary packages in your requirements.txt.
 
-4. Set Up the Database
+3. Set Up the Database
 
 Ensure PostgreSQL is installed and create a database. Update the SQLALCHEMY_DATABASE_URI in script.py with your PostgreSQL credentials:
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgres://username:password@localhost/dbname'
 
-5. Run the Flask Application
+4. Run the Flask Application
 
 python script.py
 
 The application will be available at http://127.0.0.1:5000/.
 
-6. Email Configuration
+5. Email Configuration
 
 Update the email credentials in send_mail.py with your actual email and password:
 
